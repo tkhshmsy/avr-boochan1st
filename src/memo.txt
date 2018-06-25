@@ -1,0 +1,15 @@
+-----TXD  VIN------
+-----RXD  GND------
+-----RST  RST------
+-----GND  5V0------
+GOSW-(2)  A7  -xxxx
+sSCL-(3)  A6  -xxxx
+sSDA-(4)  (19)-SCL
+I2CA-(5)  (18)-SDA
+I2CB-(6)  (17)-RD
+I2CC-(7)  (16)-RS
+Red--(8)  (15)-LD
+Yelw-(9)  (14)-LS
+LSR--(10) REF------
+LSL--(11) 3V3------
+FAN--(12) LED------
